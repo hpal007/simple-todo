@@ -4,20 +4,17 @@ let updateIndex = 0
 let todos = [
     {
         id: 1,
-        desc: "Complete all the WebDev videos"
+        desc: "🤙🏻 Chin Tapak Dam Dam  🤙🏻"
     },
     {
         id: 2,
-        desc: "Web3 assingment"
-    },{
-        id:3,
-        desc: "Read a chapter of your current book today to unwind and make progress toward finishing it before the end of the month."
+        desc: "Complete 🫵🏻 Web3 assingment!!"
     },{
         id:4,
-        desc: "Why did the bicycle fall over? It was two-tired from a long day of rolling through life's ups and downs!"
+        desc: "🃏 Why did the bicycle fall over? It was two-tired from a long day of rolling through life's ups and downs! 🤡"
     },{
         id:5,
-        desc: "Why don't skeletons fight each other? They don't have the guts, and they prefer a bone-dry sense of humor!"
+        desc: "🃏 Why don't skeletons fight each other? They don't have the guts, and they prefer a bone-dry sense of humor! 🤡"
     }
 
 ]
